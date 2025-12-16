@@ -1,0 +1,21 @@
+/* Center the main H1 in the middle of the viewport */
+html, body {
+	height: 100%;
+	margin: 0;
+}
+
+main {
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	padding: 1rem;
+}
+
+main h1 {
+	margin: 0;
+	font-size: 2.5rem;
+	line-height: 1.1;
+}
+
