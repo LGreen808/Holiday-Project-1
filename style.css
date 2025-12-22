@@ -2,7 +2,13 @@
 html, body {
 	height: 100%;
 	margin: 0;
-	background: linear-gradient(180deg, #e6f7ff 0%, #d9f0ff 100%);
+	/* Snowflake background image for the whole page */
+	background-image: url("SnowBackground.jpg");
+	background-size: cover; /* ensure it fills the viewport */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed; /* keeps the background fixed while content scrolls */
+	background-color: #e6f7ff; /* fallback color if image fails to load */
 }
 
 main {
@@ -20,6 +26,12 @@ main h1 {
 	margin: 0;
 	font-size: 2.5rem;
 	line-height: 1.1;
+	font-weight: 700; /* make header bold */
+}
+
+h1 {
+	color: white;
+	
 }
 
 /* Grid of cards: 5 columns x 5 rows */
