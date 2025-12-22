@@ -1,155 +1,186 @@
-[
+  [
    {
+     "id": 1,
      "day": "December 1st",
      "picture": " ",
      "description": "Yay! Its the first day of December! Wether you celebrate Christmas, Hanukkah, Kwanzaa, or just the winter itself. We here at the advent calendar wish you a happy December!"
    },
    {
+      "id": 2,
     "day": "December 2nd",
     "picture": "December2.jpg",
     "description": "Today is Pop Star's Britney Spears Birthday!"
    },
    {
+      "id": 3,
     "day": "December 3rd",
     "picture": "December3.webp",
     "description": "Today is Let's Hug Day, so go give someone a hug today!"
    },
     {
+        "id": 4,
     "day": "December 4th",
     "picture": "December4.jpg",
     "description": "Today is Santa's List Day!"
    },
     {
+        "id": 5,
     "day": "December 5th",
     "picture": "December5.jpg",
     "description": "Today is Walt Disney's Birthday!, thanks for giving us Mickey Mouse!"
    },
     {
+    "id": 6,
     "day": "December 6th",
     "picture": "December6.jpg",
     "description": "Today is Saint Nicholas Day (Western)!"
    },
     {
+    "id": 7,
     "day": "December 7th",
     "picture": "December7.jpeg",
     "description": "Today is National Cotton Candy Day!"
    },
     {
+    "id": 8,
     "day": "December 8th",
     "picture": "",
     "description": "Today is National Christmas Tree Day in the United States!"
    },
     {
+      "id": 9,
     "day": "December 9th",
     "picture": "December9.jpg",
     "description": "Today A Charlie Brown Christmas was released in 1965!"
    },
     {
+    "id": 10,
     "day": "December 10th",
     "picture": "December10.jpg",
     "description": "Today the first Lord of the Rings film was released in 2001"
    },
     {
+    "id": 11,
     "day": "December 11th",
     "picture": "December11.jpg",
     "description": "Today is National Have a Bagel Day! So go have a bagel, my personal favorite is Everything Bagel"
    },
      {
+      "id": 12,
     "day": "December 12th",
     "picture": "December12.webp",
     "description": "Today is Frank Sinatra's Birthday, today he would have been 110 years old"
    },
       {
+    "id": 13,
     "day": "December 13th",
-    "picture": "",
+    "picture": "December13.jpg",
     "description": "Today is Pop Star's Taylor Swift Birthday!"
    },
       {
+    "id": 14,
     "day": "December 14th",
-    "picture": "",
+    "picture": "December14.jpg",
     "description": "In the year 2025 today is the first night of Hanukkah!"
    },
       {
+    "id": 15,
     "day": "December 15th",
-    "picture": "",
+    "picture": "December15.jpg",
     "description": "Today is National Cupcake Day! And happy 2nd night of Hanukkah!"
    },
      {
+    "id": 16,
     "day": "December 16th",
-    "picture": "",
+    "picture": "December16.jpg",
     "description": "Today in 1773 the Boston Tea Party happened, a very important day in American History! And Happy 3rd night of Hanukkah!"
    },
      {
+    "id": 17,
     "day": "December 17th",
     "picture": "",
     "description": "Today in 1989 The Simpsons debuted as a full series in the U.S., transitioning from its earlier animated shorts on The Tracey Ullman Show. Who is your favorite Simpsons character? My personal favorite is Moe. And Happy 4th night of Hanukkah!"
    },
      {
+    "id": 18,
     "day": "December 18th",
     "picture": "",
     "description": "Today in 1787, New Jersey becomes the third state to ratify the U.S. Constitution. Happy 5th night of Hanukkah!"
    },
      {
+    "id": 19,
     "day": "December 19th",
     "picture": "",
     "description": "Today in 1843, Charles Dickens A Christmas Carol was first published. Happy 6th night of Hanukkah!"
    },
      {
+    "id": 20,
     "day": "December 20th",
     "picture": "",
     "description": "In 1946 the famous holiday movie It's a Wonderful Life premiers!. Happy 7th night of Hanukkah!"
    },
      {
+    "id": 21,
     "day": "December 21st",
     "picture": "",
     "description": "Today is Crossword Puzzle Day!. Happy last night of Hanukkah!"
    },
      {
+    "id": 22,
     "day": "December 22nd",
     "picture": "",
     "description": "Today is Nut Bread Day!"
    },
      {
+    "id": 23,
     "day": "December 23rd",
     "picture": "",
     "description": "Today is actor / comedian Harry Shearer's Birthday, you might know him from Spinal Tap or as multiple voices on The Simpsons"
    },
      {
+    "id": 24,
     "day": "December 24th",
     "picture": "",
     "description": "Happy Christmas Eve!"
    },
      {
+    "id": 25,
     "day": "December 25th",
     "picture": "",
     "description": "Merry Christmas!"
    },
     {
+    "id": 26,
     "day": "December 26th",
     "picture": "",
     "description": "Today is the start of Kwanzaa!"
    },
     {
+    "id": 27,
     "day": "December 27th",
     "picture": "",
     "description": "Today in 1932 Radio City Music Hall opened in New York City. Happy 2nd day of Kwanzaa!"
    },
     {
+    "id": 28,
     "day": "December 28th",
     "picture": "",
     "description": "Today is National Call a Friend Day! Happy 3rd day of Kwanzaa!"
    },
      {
+    "id": 29,
     "day": "December 29th",
     "picture": "",
     "description": "Today in 1845 Texas officially became a state. Happy 4th day of Kwanzaa!"
    },
      {
+    "id": 30,
     "day": "December 30th",
     "picture": "",
     "description": "Happy New Year's Eve and Happy 5th day of Kwanzaa!"
    },
     {
+    "id": 31,
     "day": "December 31st",
     "picture": "",
     "description": "Happy 6th day of Kwanzaa! And Happy New Year's Eve! We hope you had a happy 2025 and wish you a great 2026!"
