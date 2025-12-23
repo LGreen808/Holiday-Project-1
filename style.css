@@ -57,6 +57,7 @@ h1 {
 	height: 100%;
 	transform-style: preserve-3d;
 	transition: transform 0.6s;
+	transform-origin: top;
 }
 .card.flip .card-inner {
 	transform: rotateX(180deg);
@@ -83,10 +84,9 @@ h1 {
 }
 .card-back {
 	background: #ffffff; /* blank back */
-	transform: rotateX(-180deg);
-	position: fixed;
-	width: 100vw;
-	height: 100vh;
+	transform: rotateX(180deg);
+	width: 205px;
+	height: 180px;
 	z-index: 999;
 	transition: transform 0.6s ease;
 	transform-origin: center center;
